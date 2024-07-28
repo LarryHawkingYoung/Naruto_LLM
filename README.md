@@ -1,5 +1,5 @@
 # Naruto_LLM
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/51b25d58-f2f7-4dbb-a2fc-c0181c4f8ca2)
 
 
 ## 介绍
